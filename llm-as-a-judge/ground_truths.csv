@@ -1,5 +1,0 @@
-ID,Generated_Output,External_Reference,Human_Label,Human_Reason,Judge_Label,Judge_Reason
-1,The wind speed is 15 knots,JTWC update: Wind speed is 15 knots at 2:30 PM,Accurate,,,
-2,No heavy rain is expected,PAGASA update: Heavy rain forecast for later today,Inaccurate,,,
-3,Tide level is normal,JTWC update: Tide level within normal range,Accurate,,,
-4,There is no storm warning,PAGASA update: Storm warning issued for coastal areas,Inaccurate,,,
