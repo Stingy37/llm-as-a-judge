@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+modules/__pycache__/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore all JSON files
+*.json
